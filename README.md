@@ -1,2 +1,4 @@
-# bloglist
-App for saving information about intersting blogs from around the internet.
+# Blog List
+Node and Express application for saving information about interesting blogs from around the internet.
+
+Developed across the exercises for part 4 of the Fullstack Open course from the University of Helsinki.
